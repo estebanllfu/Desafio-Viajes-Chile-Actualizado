@@ -1,0 +1,16 @@
+.img-container {
+    height: 100%;
+}
+.img-container img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-footer a{
+    text-decoration: none;
+}
